@@ -3,7 +3,7 @@
 - Deadline : November 27 2023
 - CS 303 : Assignment 4
 
-** All Trees were created using the online graphic design platform Canva
+** All tree solutions were created using the online graphic design platform Canva
   
 # Question One Solution:
 
